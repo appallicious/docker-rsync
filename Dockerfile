@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER Fabrice Armisen <farmisen@occamzrazor.com>
+MAINTAINER Fabrice Armisen <farmisen@appallicious.com>
 
 # install ssh, rsync and python 
 RUN apk update && \
